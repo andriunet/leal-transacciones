@@ -2,12 +2,6 @@
 
 Se creo la app pensando en lo simple, tanto en el interfaz como en el codigo.
 
-### Librerias de terceros 📋
-```
-- Alamofire
-- HandyJSON
-- FSnapChatLoading
-```
 ### Instalación 🔧
 
 Instalar dependencias
@@ -15,6 +9,13 @@ Instalar dependencias
 ```
 $ pod install
 $ abrir Transacciones.xcworkspace
+```
+
+### Librerias de terceros 📋
+```
+- Alamofire
+- HandyJSON
+- FSnapChatLoading
 ```
 
 ## URL 📖
