@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in TransaccionesViewController.viewDidLoad():TransaccionesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Transaciones">
+            </PersistentString>
+            <PersistentString
+               value = "response.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetalleViewController.viewDidLoad():DetalleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TransaccionesViewController.tableView(_:commit:forRowAt:):TransaccionesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
