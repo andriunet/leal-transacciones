@@ -1,6 +1,6 @@
 # Leal Transacciones
 
-Se creo la app pensando en lo la simplicidad tanto en el interfaz como en el codigo.
+Se creo la app pensando en la simplicidad, tanto en el interfaz como en el codigo.
 
 ### Librerias de terceros 📋
 ```
